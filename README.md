@@ -1,6 +1,6 @@
 # springboot-es
 
-**Please ingore the project name, as it makes no sense!**
+**Please ingore the project name, because it makes no sense!**
 
 **1.description**:Use SpringBoot to integrate with elasticsearch.
 
