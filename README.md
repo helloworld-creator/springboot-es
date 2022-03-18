@@ -1,4 +1,7 @@
 # springboot-es
+
+**Please ingore the project name, as it makes no sense!**
+
 **1.description**:Use SpringBoot to integrate with elasticsearch.
 
 **2.Envitonment**: IDEA + maven 3.8.4 + elasticsearch 7.16.2 + SpringBoot 2.6.4
